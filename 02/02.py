@@ -1,7 +1,7 @@
 from timeit import timeit
 import re
 
-lines = open('day2.txt').readlines()
+lines = open('02.txt').readlines()
 
 def part1():
     valid = 0
